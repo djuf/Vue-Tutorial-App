@@ -1,34 +1,13 @@
-# learn
+# Vue-Tutorial-App
 
-## Project setup
-```
-yarn install
-```
+App uses NASA image API to fetch images and display them after passing search query.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+- [NASA API instructions](https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf)
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+App based on Vue tutorial by - [hello roman](https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g/)
 
-### Run your tests
-```
-yarn run test
-```
+### How to start?
 
-### Lints and fixes files
 ```
-yarn run lint
+yarn serve
 ```
-
-### Run your unit tests
-```
-yarn run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
